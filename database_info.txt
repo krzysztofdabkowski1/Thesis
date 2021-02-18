@@ -1,0 +1,2 @@
+https://www.isip.piconepress.com/projects/tuh_eeg/html/request_access.php
+https://www.isip.piconepress.com/projects/tuh_eeg/downloads/tuh_eeg_epilepsy/v1.0.0/
